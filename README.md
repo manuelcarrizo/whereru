@@ -15,8 +15,8 @@ It's intended to be a fast, easy and convenient way to search your files.
 
 ## Screenshots
 
-![Search results](https://github.com/manuelcarrizo/whereru/blob/master/screenshots/search_results.png)
-![Results filtered](https://github.com/manuelcarrizo/whereru/blob/master/screenshots/results_filtered.png)
+![Search results](https://github.com/manuelcarrizo/whereru/raw/master/snapshots/search_results.png)
+![Results filtered](https://github.com/manuelcarrizo/whereru/raw/master/snapshots/results_filtered.png)
 
 ## Installing
 
